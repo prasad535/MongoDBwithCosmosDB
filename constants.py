@@ -1,0 +1,2 @@
+MONGODB_URL_KEY = "MONGO_DB_URL"
+DATABASE_NAME = "test-database"
